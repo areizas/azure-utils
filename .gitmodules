@@ -1,0 +1,6 @@
+[submodule "az-103/az-103/AZ-103-MicrosoftAzureAdministrator"]
+	path = az-103/az-103/AZ-103-MicrosoftAzureAdministrator
+	url = https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator.git
+[submodule "az-103/AZ-103-MicrosoftAzureAdministrator"]
+	path = az-103/AZ-103-MicrosoftAzureAdministrator
+	url = https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator.git
